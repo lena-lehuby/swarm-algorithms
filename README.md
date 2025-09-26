@@ -47,5 +47,11 @@ Gravity Boids with Obstacles — gravity_boids_with_obstacles.ipynb
 
 Swarm-based Maximum Finder — swarm_maximum.ipynb
 
-## How to Get Started
+### How to Get Started
 Grab a notebook, make sure Python and some basics (numpy, tkinter) are installed, and start running things. Change up the number of agents, tweak parameters, toss in more obstacles and don’t be afraid to break something. That’s usually where the learning happens.
+
+### Shoutouts
+Project based on the Manning liveProject: Simple AI Algorithms for Classification
+
+### License
+This is mainly meant for learning and tinkering, not commercial use.
